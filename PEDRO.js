@@ -22,3 +22,8 @@ console.log(vamosPular);
 let help = 'HELP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
 
 
+// RECOMENDO ABRIR O DO JHON!
+
+let abreOJhon  = alert('ABRE O JHON!!!')
+
+alert(abreOJhon)
