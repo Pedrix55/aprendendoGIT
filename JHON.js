@@ -10,7 +10,7 @@ let mediaParaPassar = 6
 
 while(minhaNota > mediaParaPassar){
     console.log('PASSOU, falta pouco para terminar');
-    
+    minhaNota--
 }
 
 let testeDeArray = []
@@ -28,3 +28,7 @@ const mercado = {
         nescau: 1
     }
 }
+
+testeDeArray.push(mercado.limpeza)
+
+console.log(testeDeArray);
