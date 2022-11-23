@@ -17,3 +17,8 @@ console.log(xx);
 console.log(vamosPular);
 
 
+// QUERIDO PROFESSOR DAVID - POR FAVOR AJUDE A NÓS LARGANDO CEDO!
+
+let help = 'HELP!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!'
+
+
