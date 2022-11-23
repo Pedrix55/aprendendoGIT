@@ -1,2 +1,6 @@
 # aprendendoGIT
 APRENDENDO GIT _ PLAYERS: ANA - JHONATTAN - PEDRO
+
+
+
+JHON ÈS NÂO SE
