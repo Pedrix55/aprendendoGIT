@@ -1,5 +1,5 @@
-let a = "Ana,"
-let p = "Pedro"
+let a = " Ana,"
+let p = " Pedro"
 let j = "Jhon,"
 
-console.log(a + j + p)
+console.log(j + a + p + "são uma equipe")
