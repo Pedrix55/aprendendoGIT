@@ -1,6 +1,6 @@
 let l = "Lilo "
 let s = "& Stitch"
 
-let melhor = "é o melhor filme de desenho animado"
-console.log(l + s);
+let melhor = " é um dos melhores filmes de desenho animado"
+console.log(l + s + melhor);
 
