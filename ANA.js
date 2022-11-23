@@ -1,5 +1,5 @@
-console.log(Ana);
+let a = "Ana,"
 
 let j = "Jhon"
 
-console.log("Ana"+ j)
+console.log(a + j)
