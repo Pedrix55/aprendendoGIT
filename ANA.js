@@ -1,5 +1,5 @@
-console.log("Lilo");
+let l = "Lilo "
 
 let s = "& Stitch"
 
-console.log("Lilo " + s);
+console.log(l + s);
